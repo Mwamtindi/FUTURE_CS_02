@@ -33,8 +33,8 @@ pip install requests
 ## Cloning the Repository
 To get started, clone the repository from GitHub:
 ```sh
-git clone https://github.com/Mwamtindi/SPHF_Attachment_Project.git
-cd password_analyz3r
+git clone https://github.com/Mwamtindi/FUTURE_CS_02.git
+cd FUTURE_CS_02
 ```
 
 ## Activate Virtual Environment
